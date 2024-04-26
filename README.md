@@ -1,6 +1,6 @@
 # 🔌 VideotronicMaker GitHub Page</br>
-🎥Studied Film and Video Production at Hunter College, NYC </br>
-🖥️ Making videos on [YouTube](https://www.youtube.com/@videotronicmaker) about Arduino, AI, and Video Production</br>
+🎥 Studied Film and Video Production at Hunter College, NYC </br>
+🖥️ Making videos on [YouTube](https://www.youtube.com/@videotronicmaker) about Learning Arduino and AI</br>
 🚀 Working on The VideotronicMaker.com YouTube Channel</br>
 💭 Learning to create an offline,multimodal AI assistant</br>
 

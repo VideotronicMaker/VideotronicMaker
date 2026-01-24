@@ -19,8 +19,6 @@
 ---
 
 ### 🎥 Featured YouTube Videos
-*To update these, manually change the `id=` parameter in the links below to your preferred video IDs.*
-
 <div align="center">
 
 [![Digital Assistant](https://ytcards.demolab.com/?id=6XrfwhTBQmM&title=Digital+Assistant+UI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=6XrfwhTBQmM)

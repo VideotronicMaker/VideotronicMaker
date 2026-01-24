@@ -21,9 +21,17 @@
 ### 🎥 Featured YouTube Videos
 <div align="center">
 
-[![Digital Assistant](https://ytcards.demolab.com/?id=6XrfwhTBQmM&title=Digital+Assistant+UI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=6XrfwhTBQmM)
-[![Offline AI](https://ytcards.demolab.com/?id=nlx_57fV7DQ&title=Offline+Hugging+Face+Models&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=nlx_57fV7DQ)
-[![Gemma Testing](https://ytcards.demolab.com/?id=KYLX86u3BGo&title=Gemma+2B+Real+Testing&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=KYLX86u3BGo)
+[![Building an AI Desk Bot with Arduino Uno Q](https://ytcards.demolab.com/?id=WiXRPLrF5m0&title=Building+an+AI+Desk+Bot+with+Arduino+Uno+Q&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=WiXRPLrF5m0)
+[![Arduino UNO Q Robot Project: Dual-Brain Sync](https://ytcards.demolab.com/?id=xDm-rMR-oBs&title=Arduino+UNO+Q+Robot+Project%3A+Dual-Brain+Sync&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=xDm-rMR-oBs)
+[![LoRa Field Research Station with Arduino Uno Q](https://ytcards.demolab.com/?id=Xr02o3HJoto&title=LoRa+Field+Research+Station+with+Arduino+Uno+Q&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=Xr02o3HJoto)
+
+[![Is the Arduino Uno Q Indestructible?](https://ytcards.demolab.com/?id=kLUZZ_FivEY&title=Is+the+Arduino+Uno+Q+Indestructible%3F&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=kLUZZ_FivEY)
+[![Man and Robot Chat | Concept Demo Full](https://ytcards.demolab.com/?id=aGEeob-HQeM&title=Man+and+Robot+Chat+%7C+Concept+Demo+Full&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=aGEeob-HQeM)
+[![Digital Assistant UI using Google Gemini Advanced](https://ytcards.demolab.com/?id=6XrfwhTBQmM&title=Digital+Assistant+UI+using+Google+Gemini+Advanced&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=6XrfwhTBQmM)
+
+[![NLP Upgrade Using Free Google Text to Speech API](https://ytcards.demolab.com/?id=lSnyTC3lh5o&title=NLP+Upgrade+Using+Free+Google+Text+to+Speech+API&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=lSnyTC3lh5o)
+[![LM Studio: Local Inference Server - Voice Conversation](https://ytcards.demolab.com/?id=WW7ogUMT2rU&title=LM+Studio%3A+Local+Inference+Server+-+Voice+Conversation&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=WW7ogUMT2rU)
+[![LM Studio: How to Run a Local Inference Server](https://ytcards.demolab.com/?id=1LdrF0xKnjc&title=LM+Studio%3A+How+to+Run+a+Local+Inference+Server&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=1LdrF0xKnjc)
 
 </div>
 

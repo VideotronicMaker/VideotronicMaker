@@ -46,15 +46,13 @@
 
 ### 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VideotronicMaker&theme=dark&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VideotronicMaker&theme=dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VideotronicMaker&theme=dark&hide_border=false" alt="GitHub Stats" />
+  
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VideotronicMaker&theme=flat&no-bg=true" />
-</div>
+<
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VideotronicMaker&icon=0&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet" alt="Visitor Count" />
 </div>

@@ -3,22 +3,33 @@
   <h1>🔌 VideotronicMaker</h1>
   <p><b>"Learn with me as I learn!"</b></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/company/videotronicmaker-com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/videoTMaker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@videotronicmaker) 
+  [![Followers](https://img.shields.io/github/followers/VideotronicMaker?style=for-the-badge&color=blue)](https://github.com/VideotronicMaker)
+  ![Views](https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet&style=for-the-badge)
+
+  <br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tishinpadilla/) 
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@videotronicmaker) 
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/videoTMaker)
+  
+  [![Arduino Project Hub](https://img.shields.io/badge/Arduino_Project_Hub-00979D?logo=arduino&logoColor=white)](https://projecthub.arduino.cc/Tishin)
+  [![Hackster.io](https://img.shields.io/badge/Hackster.io-1494BB?logo=hackster&logoColor=white)](https://www.hackster.io/VideotronicMaker)
+
 </div>
 
 ---
 
 ### 🧠 The Mission
-* 🎥 **Background:** Studied Film and Video Production at Hunter College, NYC.
+* 🎥 **Background:** Emmy-nominated Broadcast Television Producer with 30+ years experience.
 * 🖥️ **Current Focus:** Creating tutorials on [YouTube](https://www.youtube.com/@videotronicmaker) about Physical Computing, Arduino, and AI.
-* 🚀 **Project:** Developing the **VideotronicMaker.com** ecosystem.
-* 💭 **The Goal:** Building a fully offline, multimodal AI assistant.
+* 🚀 **Project:** Developing the **VTM OS™** (Bio-Mimetic AI Architecture).
+* 💭 **The Goal:** Bridging the gap between high-level reasoning and real-time physical control.
 
 **Video Production | Web Design | Arduino | Artificial Intelligence**
 
 ---
 
-### 🎥 Featured YouTube Videos
+### 🎥 Featured YouTube Tutorials
 <div align="center">
 
 [![Building an AI Desk Bot with Arduino Uno Q](https://ytcards.demolab.com/?id=WiXRPLrF5m0&title=Building+an+AI+Desk+Bot+with+Arduino+Uno+Q&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=WiXRPLrF5m0)
@@ -38,7 +49,7 @@
 ---
 
 ### 💻 Tech Stack
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
@@ -46,11 +57,12 @@
 
 ### 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VideotronicMaker&theme=dark&hide_border=false" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=VideotronicMaker&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideotronicMaker&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet" alt="Visitor Count" />
+  <p><i>"Learn with me as I learn."</i></p>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </div>

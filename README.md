@@ -1,3 +1,10 @@
+<div align="center">
+
+| <div align="center"><br /> <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_rounded_rect_banner_v3.gif" width="700" /><br /><br /> <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_avatar.webp" width="100" /><br /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=db7a31&center=true&vCenter=true&width=700&lines=Emmy-Nominated+Broadcast+Producer;Web+Design+%26+Physical+Computing;Arduino+Classmate;Bio-Mimetic+AI+Research" /><br /><br /> [![Followers](https://img.shields.io/github/followers/VideotronicMaker?style=for-the-badge&color=blue)](https://github.com/VideotronicMaker) ![Views](https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet&style=for-the-badge)<br /><br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tishinpadilla/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@videotronicmaker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/videoTMaker)<br /> [![Arduino Project Hub](https://img.shields.io/badge/Arduino_Project_Hub-00979D?logo=arduino&logoColor=white)](https://projecthub.arduino.cc/Tishin) [![Hackster.io](https://img.shields.io/badge/Hackster.io-1494BB?logo=hackster&logoColor=white)](https://www.hackster.io/VideotronicMaker) <br /><br /> </div> |
+| :--- |
+
+</div>
+
 <div align="center" style="position: relative; padding: 20px;">
   
   <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_wide_banner_v5.gif" width="900" style="position: relative; z-index: 1;" />

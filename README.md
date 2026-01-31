@@ -17,6 +17,8 @@
 
 </div>
 
+![VTM OS Boot](vtm_github_boot.gif)
+
 ---
 
 ### 🧠 The Mission

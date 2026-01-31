@@ -17,7 +17,7 @@
 
 </div>
 
-![VTM OS Boot](vtm_github_boot.gif)
+![VTM OS Boot](vtm_2_github_boot.gif)
 
 ---
 

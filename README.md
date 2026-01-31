@@ -88,7 +88,7 @@ With over **30 years of experience** in multi-award-winning broadcast television
 
 ---
 
-<div align="center">
-  <p><i>"Learn with me as I learn."</i></p>
+<p align="center">
+  <i>"Learn with me as I learn."</i><br />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
-</div>
+</p>

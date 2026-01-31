@@ -1,7 +1,16 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_rounded_rect_banner_v3.gif" width="600" alt="VideotronicMaker Animated Banner" />
+<div align="center" style="position: relative; padding-top: 20px;">
+  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_avatar.webp" 
+       width="85" 
+       style="position: absolute; top: 45px; left: 50%; transform: translateX(-50%); z-index: 10;" 
+       alt="VTM Logo" />
+  
+  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_rounded_rect_banner_v3.gif" 
+       width="600" 
+       style="position: relative; z-index: 1;" 
+       alt="VideotronicMaker Animated Banner" />
+</div>
 
-  <br />
+<div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=db7a31&center=true&vCenter=true&width=700&lines=Emmy-Nominated+Broadcast+Producer;Web+Design+%26+Physical+Computing;Arduino+Classmate;Bio-Mimetic+AI+Research" />
 

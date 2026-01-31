@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="vtm_avatar.webp" alt="VTM Logo" width="160" height="auto" />
-  <h1>🔌 VideotronicMaker</h1>
-  <p><b>"Learn with me as I learn!"</b></p>
+  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_rounded_rect_banner_v3.gif" width="600" alt="VideotronicMaker Animated Banner" />
+
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=db7a31&center=true&vCenter=true&width=700&lines=Emmy-Nominated+Broadcast+Producer;Web+Design+%26+Physical+Computing;Arduino+Classmate;Bio-Mimetic+AI+Research" />
+
 
   [![Followers](https://img.shields.io/github/followers/VideotronicMaker?style=for-the-badge&color=blue)](https://github.com/VideotronicMaker)
   ![Views](https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet&style=for-the-badge)
@@ -15,10 +18,18 @@
   [![Arduino Project Hub](https://img.shields.io/badge/Arduino_Project_Hub-00979D?logo=arduino&logoColor=white)](https://projecthub.arduino.cc/Tishin)
   [![Hackster.io](https://img.shields.io/badge/Hackster.io-1494BB?logo=hackster&logoColor=white)](https://www.hackster.io/VideotronicMaker)
 
+</div>
+
+## 🎯 About Me
+With over **30 years of experience** in multi-award-winning broadcast television production, I am now bridging the gap between high-level reasoning and real-time physical control. Through **VideotronicMaker**, I demystify complex technical concepts, proving that proficiency can be attained through hands-on learning and persistence.
+
+
+<div align="center">
+  
+
 ![VTM OS Boot](vtm_2_github_boot.gif)
 </div>
 
----
 
 ### 🧠 The Mission
 * 🎥 **Background:** Emmy-nominated Broadcast Television Producer with 30+ years experience.

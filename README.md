@@ -15,9 +15,8 @@
   [![Arduino Project Hub](https://img.shields.io/badge/Arduino_Project_Hub-00979D?logo=arduino&logoColor=white)](https://projecthub.arduino.cc/Tishin)
   [![Hackster.io](https://img.shields.io/badge/Hackster.io-1494BB?logo=hackster&logoColor=white)](https://www.hackster.io/VideotronicMaker)
 
-</div>
-
 ![VTM OS Boot](vtm_2_github_boot.gif)
+</div>
 
 ---
 

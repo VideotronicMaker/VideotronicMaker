@@ -81,12 +81,13 @@ With over **30 years of experience** in multi-award-winning broadcast television
 ---
 
 ### 📊 GitHub Insights
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VideotronicMaker&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideotronicMaker&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VideotronicMaker&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
+
 <div align="center">
   <p><i>"Learn with me as I learn."</i></p>
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />

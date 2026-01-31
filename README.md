@@ -1,3 +1,29 @@
+<div align="center" style="position: relative; padding: 20px;">
+  
+  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_wide_banner_v5.gif" width="900" style="position: relative; z-index: 1;" />
+
+  <div style="position: absolute; top: 40px; left: 50%; transform: translateX(-50%); z-index: 10;">
+    <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_avatar.webp" width="80" />
+  </div>
+
+  <div style="position: absolute; top: 220px; left: 50%; transform: translateX(-50%); z-index: 10;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=db7a31&center=true&vCenter=true&width=700&lines=Emmy-Nominated+Broadcast+Producer;Web+Design+%26+Physical+Computing;Arduino+Classmate;Bio-Mimetic+AI+Research" />
+  </div>
+
+  <div style="position: absolute; top: 310px; left: 50%; transform: translateX(-50%); z-index: 10; width: 100%;">
+    <a href="https://github.com/VideotronicMaker"><img src="https://img.shields.io/github/followers/VideotronicMaker?style=for-the-badge&color=blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=VideotronicMaker&color=blueviolet&style=for-the-badge" />
+    <br />
+    <a href="https://linkedin.com/in/tishinpadilla/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="https://youtube.com/@videotronicmaker"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+    <a href="https://x.com/videoTMaker"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+    <a href="https://projecthub.arduino.cc/Tishin"><img src="https://img.shields.io/badge/Arduino_Project_Hub-00979D?logo=arduino&logoColor=white" /></a>
+    <a href="https://www.hackster.io/VideotronicMaker"><img src="https://img.shields.io/badge/Hackster.io-1494BB?logo=hackster&logoColor=white" /></a>
+  </div>
+
+</div>
+
+
 <div align="center" style="position: relative; padding-top: 20px;">
   <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_avatar.webp" 
        width="85" 

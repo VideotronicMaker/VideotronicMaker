@@ -1,7 +1,7 @@
 
 <div align="center" style="position: relative; padding: 20px;">
   
-  <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_wide_banner_v5.gif" width="900" style="position: relative; z-index: 1;" />
+  
 
   <div style="position: absolute; top: 40px; left: 50%; transform: translateX(-50%); z-index: 10;">
     <img src="https://raw.githubusercontent.com/VideotronicMaker/VideotronicMaker/main/vtm_avatar.webp" width="80" />
